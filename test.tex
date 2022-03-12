@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage{xcolor}
+\usepackage{amsmath}
+\usepackage{multicol}
+\usepackage{exsheets}% also loads the `tasks' package
+
+%-------Question in red-------%
+% \newcommand{\questionRed}{    
+%     \color{red}
+%     \textbf{}
+%     \begin{flushleft}
+%     \end{flushleft}
+% }
+%---------------New cmd--------------%
+
+\newcommand{\mcqfour}[5]{
+    \begin{flushleft}
+        \color{red}
+        Q. #1
+        \textbf{}
+    \end{flushleft}
+    \begin{raggedright}
+        \textbf{}
+        \begin{multicols}{4}{}
+            (a) #2\\
+            (c) #3\\
+            % \columnbreak
+            (b) #4\\
+            (d) #5\\
+            \end{multicols}
+    \end{raggedright}
+}
+
+%------------------------------------------
+
+\begin{document}
+  \mcqfour{The part of a banana plant not used as a food is \rule{1cm}{0.5mm} .}{Flower}{Stem}{Fruit}{\textbf{Root}}
+
+\end{document}

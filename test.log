@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  13 MAR 2022 02:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.10)  13 MAR 2022 11:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -162,6 +162,8 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \mult@nat@firstbox=\box95
 \colbreak@box=\box96
 \mc@col@check@num=\count278
+) (C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
 ) (C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex/latex/exsheets\exsheets.sty (C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2021-11-22 L3 programming layer (loader) 
  (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -451,37 +453,58 @@ Package: ulem 2019/11/18
 \ULdepth=\dimen274
 ) (C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex/latex/translations\translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
-))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 36.
+)) (C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+ (C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/02/28 v3.6a Customizing captions (AR)
+ (C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/02/28 v2.3a caption3 kernel (AR)
+\caption@tempdima=\dimen275
+\captionmargin=\dimen276
+\caption@leftmargin=\dimen277
+\caption@rightmargin=\dimen278
+\caption@width=\dimen279
+\caption@indent=\dimen280
+\caption@parindent=\dimen281
+\caption@hangindent=\dimen282
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count328
+\c@continuedfloat=\count329
+)
+\c@subfigure=\count330
+\c@subtable=\count331
+)
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 59.
  (test.aux)
 \openout1 = `test.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count328
-\scratchdimen=\dimen275
+\scratchcounter=\count332
+\scratchdimen=\dimen283
 \scratchbox=\box119
-\nofMPsegments=\count329
-\nofMParguments=\count330
+\nofMPsegments=\count333
+\nofMParguments=\count334
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count331
-\MPscratchDim=\dimen276
-\MPnumerator=\count332
-\makeMPintoPDFobject=\count333
+\MPscratchCnt=\count335
+\MPscratchDim=\dimen284
+\MPnumerator=\count336
+\makeMPintoPDFobject=\count337
 \everyMPtoPDFconversion=\toks36
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -498,22 +521,64 @@ File: exsheets_configurations.cfg
 ) (C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 36.
- [1
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 59.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<./images//bananaFlower.jpg, id=4, 283.0575pt x 179.67125pt>
+File: ./images//bananaFlower.jpg Graphic file (type jpg)
+<use ./images//bananaFlower.jpg>
+Package pdftex.def Info: ./images//bananaFlower.jpg  used on input line 63.
+(pdftex.def)             Requested size: 71.13132pt x 56.90378pt.
 
-{C:/Users/guest-pc01/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (test.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[][]
+ []
+
+<./images//bananaStem.jpg, id=5, 259.97125pt x 194.7275pt>
+File: ./images//bananaStem.jpg Graphic file (type jpg)
+<use ./images//bananaStem.jpg>
+Package pdftex.def Info: ./images//bananaStem.jpg  used on input line 63.
+(pdftex.def)             Requested size: 71.12935pt x 56.90332pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[][]
+ []
+
+<./images//bananaFruit.jpg, id=6, 225.84375pt x 225.84375pt>
+File: ./images//bananaFruit.jpg Graphic file (type jpg)
+<use ./images//bananaFruit.jpg>
+Package pdftex.def Info: ./images//bananaFruit.jpg  used on input line 63.
+(pdftex.def)             Requested size: 71.13081pt x 56.90533pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[][]
+ []
+
+<./images//bananaRoot.jpg, id=7, 276.03125pt x 183.68625pt>
+File: ./images//bananaRoot.jpg Graphic file (type jpg)
+<use ./images//bananaRoot.jpg>
+Package pdftex.def Info: ./images//bananaRoot.jpg  used on input line 63.
+(pdftex.def)             Requested size: 71.13043pt x 56.9057pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[][]
+ []
+
+[1
+
+{C:/Users/guest-pc01/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images//bananaFlower.jpg> <./images//bananaStem.jpg> <./images//bananaFruit.jpg> <./images//bananaRoot.jpg>] [2] (test.aux) ) 
 Here is how much of TeX's memory you used:
- 13212 strings out of 478659
- 283202 string characters out of 2855762
- 556338 words of memory out of 3000000
- 31091 multiletter control sequences out of 15000+600000
- 403844 words of font info for 29 fonts, out of 8000000 for 9000
+ 14751 strings out of 478659
+ 313574 string characters out of 2855762
+ 587247 words of memory out of 3000000
+ 32611 multiletter control sequences out of 15000+600000
+ 404633 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 91i,5n,94p,456b,183s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on test.pdf (1 page, 26899 bytes).
+ 91i,8n,94p,477b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\guest-pc01\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on test.pdf (2 pages, 72852 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 

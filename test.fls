@@ -106,6 +106,17 @@ INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\setspace\setspace.sty
 INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\exsheets\exsheets.sty
 INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\exsheets\exsheets.sty
 INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\exsheets\exsheets.sty
@@ -499,6 +510,41 @@ INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\translations\translat
 INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
 INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\exsheets\exsheets_configurations.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\subcaption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\caption\caption3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
 INPUT .\test.aux
 INPUT test.aux
 INPUT test.aux
@@ -529,9 +575,38 @@ INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\tr
 INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
 INPUT C:\Users\guest-pc01\AppData\Roaming\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-english.trsl
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT .\images\\bananaFlower.jpg
+INPUT images\\bananaFlower.jpg
+INPUT .\images\\bananaFlower.jpg
 OUTPUT test.pdf
+INPUT .\images\\bananaFlower.jpg
+INPUT .\images\\bananaFlower.jpg
+INPUT .\images\\bananaFlower.jpg
+INPUT .\images\\bananaStem.jpg
+INPUT images\\bananaStem.jpg
+INPUT .\images\\bananaStem.jpg
+INPUT .\images\\bananaStem.jpg
+INPUT .\images\\bananaStem.jpg
+INPUT .\images\\bananaStem.jpg
+INPUT .\images\\bananaFruit.jpg
+INPUT images\\bananaFruit.jpg
+INPUT .\images\\bananaFruit.jpg
+INPUT .\images\\bananaFruit.jpg
+INPUT .\images\\bananaFruit.jpg
+INPUT .\images\\bananaFruit.jpg
+INPUT .\images\\bananaRoot.jpg
+INPUT images\\bananaRoot.jpg
+INPUT .\images\\bananaRoot.jpg
+INPUT .\images\\bananaRoot.jpg
+INPUT .\images\\bananaRoot.jpg
+INPUT .\images\\bananaRoot.jpg
+INPUT C:\Program Files\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
 INPUT C:\Users\guest-pc01\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT test.aux
+INPUT C:\Users\guest-pc01\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\guest-pc01\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb

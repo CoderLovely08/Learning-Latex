@@ -2,17 +2,13 @@
 \usepackage{xcolor}
 \usepackage{amsmath}
 \usepackage{multicol}
-\usepackage{exsheets}% also loads the `tasks' package
+\usepackage{setspace}
+\usepackage{exsheets}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\graphicspath{ {./images/} }
 
-%-------Question in red-------%
-% \newcommand{\questionRed}{    
-%     \color{red}
-%     \textbf{}
-%     \begin{flushleft}
-%     \end{flushleft}
-% }
 %---------------New cmd--------------%
-
 \newcommand{\mcqfour}[5]{
     \begin{flushleft}
         \color{red}
@@ -20,20 +16,65 @@
         \textbf{}
     \end{flushleft}
     \begin{raggedright}
-        \textbf{}
         \begin{multicols}{4}{}
             (a) #2\\
-            (c) #3\\
-            % \columnbreak
-            (b) #4\\
+            (b) #3\\
+            (c) #4\\
             (d) #5\\
             \end{multicols}
     \end{raggedright}
 }
-
+%-------------Horizontal Images--------------%
+\newcommand{\images}[8]{
+    \begin{figure}[h!]
+        \centering
+        \begin{subfigure}[b]{0.22\linewidth}
+          \includegraphics[width=2.5cm,height=2cm]{#1}
+          \color{cyan}#5
+        \end{subfigure}
+        \begin{subfigure}[b]{0.22\linewidth}
+            \includegraphics[width=2.5cm,height=2cm]{#2}
+            \color{cyan}#6
+        \end{subfigure}
+        \begin{subfigure}[b]{0.22\linewidth}
+            \includegraphics[width=2.5cm,height=2cm]{#3}
+            \color{cyan}#7
+          \end{subfigure}
+          \begin{subfigure}[b]{0.22\linewidth}
+            \includegraphics[width=2.5cm,height=2cm]{#4}
+            \color{cyan}#8
+          \end{subfigure}
+      \end{figure}
+}
 %------------------------------------------
+\newcommand{\explanation}[1]{
+    \begin{flushleft}
+        \underline{Explanation:}
+        \onehalfspacing
+        \newline
+        #1
+    \end{flushleft}
+}
 
 \begin{document}
-  \mcqfour{The part of a banana plant not used as a food is \rule{1cm}{0.5mm} .}{Flower}{Stem}{Fruit}{\textbf{Root}}
+%--------Q1-----------
+\mcqfour{The part of a banana plant not used as a food is \rule{1cm}{0.5mm} .}{Flower}{Stem}{Fruit}{\textbf{Root}}
+\explanation{Flower, Stem and fruit are edible part of the banana plant \textbf{except root}}
+\images{bananaFlower}{bananaStem}{bananaFruit}{bananaRoot}{Banana Flower}{Banana Stem}{Banana Fruit}{Banana Root}
+
+%--------Q2-----------
+\mcqfour{True or False\\i. The cell is enclosed by thick outer boundary, called the cell membrane.\\ii. The nucleus is surrounded  by a jelly-like substance called cytoplasm.}{True, False}{False, False}{True, False}{\textbf{False, True}}
+\explanation{
+  \begin{itemize}
+    \item The cell is enclosed by \textbf{thick outer boundary}, called the \textbf{cell wall.} Therefore, the given statement is wrong. The correct statement is, the cell is enclosed by a \textbf{thin outer boundary} called the \textbf{cell membrane.}
+    \item The nucleus is surrounded by a \textbf{jelly-like substance} calles \textbf{cytoplasm.} Cytoplasm is responsible for holding the components of the cell and protects them from damage.
+    \newline
+    \newline
+    Correct option: \textbf{d) False, True.}
+  \end{itemize}}
+
+%----------Q3------------
+\mcqfour{True or False\\i. The cell is enclosed by thick outer boundary, called the cell membrane.\\ii. The nucleus is surrounded  by a jelly-like substance called cytoplasm.}{}{}{}{}
+\explanation{}
 
 \end{document}

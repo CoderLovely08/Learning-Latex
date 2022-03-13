@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1647152409 "e:/Internshala/Latex/test.tex" "test.pdf" "test" 1647152411
+["pdflatex"] 1647153516 "e:/Internshala/Latex/test/test.tex" "test.pdf" "test" 1647153519
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -106,12 +106,12 @@
   "C:/Users/guest-pc01/AppData/Roaming/MiKTeX/tex/latex/translations/dicts/translations-basic-dictionary-english.trsl" 1644048522 5588 0c1628daf15f4411ff1f463114c634a3 ""
   "C:/Users/guest-pc01/AppData/Roaming/MiKTeX/tex/latex/translations/translations.sty" 1644048522 44247 2188b95d0ee74e31eca4d316263c58a7 ""
   "C:/Users/guest-pc01/AppData/Roaming/MiKTeX/tex/latex/ulem/ulem.sty" 1578651445 15682 94f55b803e160cf7fb6e4d77d07cfe1d ""
-  "e:/Internshala/Latex/test.tex" 1647152408 3023 07a6238fa88c00689d6bcdb90c2e7031 ""
+  "e:/Internshala/Latex/test/test.tex" 1647152408 3023 07a6238fa88c00689d6bcdb90c2e7031 ""
   "images//bananaFlower.jpg" 1647122163 6809 e9d69db4ddbd5b2ac0d0aef7d3f45780 ""
   "images//bananaFruit.jpg" 1647126777 9540 e0a0a45a7bb27a3532415d40d55d40a7 ""
   "images//bananaRoot.jpg" 1647126818 10976 842f7d37a04fbe87f656a5e32d0ada67 ""
   "images//bananaStem.jpg" 1647126756 6884 6d94ec6f3352d1bc94f467280c43c45d ""
-  "test.aux" 1647152410 342 a0f473b2ef12b516b3cf4816f6f6e894 "pdflatex"
+  "test.aux" 1647153518 342 a0f473b2ef12b516b3cf4816f6f6e894 "pdflatex"
   "test.tex" 1647152408 3023 07a6238fa88c00689d6bcdb90c2e7031 ""
   (generated)
   "test.aux"
